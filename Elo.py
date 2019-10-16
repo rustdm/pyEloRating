@@ -63,15 +63,4 @@ def main():
 main()
 
 
-# Critique and Analyze the project after finished
-# What went right or wrong
-
-# google experiments
-"""
-Event Based News Service Application in Java (Android):
-	No speculation or opinions, only factual information, direct from source
-
-	Filter out the noise!
-"""
-
 
